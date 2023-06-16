@@ -39,6 +39,7 @@ body {
 
 .escola-div-conteudo{
     width: 35%;
+    justify-content: space-evenly ;
 }
 
 
