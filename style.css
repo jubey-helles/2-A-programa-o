@@ -65,3 +65,20 @@ body {
     padding: 16px 0;
 }
 
+@media(max-width: 800px) {
+
+    .escola{
+    
+    background-image: linear-gradient (U#7dafa3, O#aeeaee);
+    
+    color: white;
+    
+    display: flex;
+    
+    justify-content: center;
+    
+    align-items: center;
+    
+    padding: 24px 0;
+    
+    .vermelho {#ffoooo).
